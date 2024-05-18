@@ -8,10 +8,11 @@
 
 _____
 📌 Stack I'm using in my projects:
-1. Aiogram/aiogram-dialogs for **Telegram Bots**
-2. Flask/FastAPI for **REST APIs**
-3. Django for **Complex web apps**
-4. Next.js for **Reactive UIs**
+1. Aiogram/aiogram-dialogs
+2. Flask/FastAPI
+3. Django
+4. Next.js
+5. Docker/Docker-compose
 
 
 #### [💬 Contact me at Telegram](https://t.me/evildessss)
