@@ -4,7 +4,7 @@
 - 🤔 I have been into programming since.. hm... forEVER (haha, I mean, really, I've been coding since 11 y.o.)
 
 _____
-📌 Current technoligies that I use:
+📌 Current technologies that I use:
 1. Aiogram/aiogram-dialogs for **Telegram Bots**
 2. Flask/FastAPI for **REST APIs**
 3. Django for **Complex web apps**
