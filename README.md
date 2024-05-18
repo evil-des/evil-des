@@ -4,7 +4,7 @@
 - 🤔 I have been into programming since.. hm... forEVER (haha, I mean, really, I've been coding since 11 y.o.)
 - 3+ years of commercial development experience
 - Developed 50+ successful commercial projects
-- Developed and maintained (bugfix + devops) projects with 2000+ active users
+- Developed and maintained (new features + devops) projects with 2000+ active users
 
 _____
 📌 Stack I'm using in my projects:
