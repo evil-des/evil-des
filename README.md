@@ -2,9 +2,12 @@
 - 👨🏼‍💻 I'm 18 years old Python Backend developer from Russia (sometimes I turn into fullstack dev).
 - 👨🏻‍🎓 Currently I am a first year Comp. Sci. student.
 - 🤔 I have been into programming since.. hm... forEVER (haha, I mean, really, I've been coding since 11 y.o.)
+- 3+ years of commercial development experience
+- Developed 50+ successful commercial projects
+- Developed and maintained (bugfix + devops) projects with 2000+ active users
 
 _____
-📌 Current technologies that I use:
+📌 Stack I'm using in my projects:
 1. Aiogram/aiogram-dialogs for **Telegram Bots**
 2. Flask/FastAPI for **REST APIs**
 3. Django for **Complex web apps**
