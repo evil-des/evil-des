@@ -1,10 +1,10 @@
 ### Hi there, I'm Renat 👋
 - 👨🏼‍💻 I'm 18 years old Python Backend developer from Russia (sometimes I turn into fullstack dev).
-- 👨🏻‍🎓 Currently I am a first year Comp. Sci. student.
+- 👨🏻‍🎓 I am a Comp. Sci. student.
 - 🤔 I have been into programming since.. hm... forEVER (haha, I mean, really, I've been coding since 11 y.o.)
 - 3+ years of commercial development experience
 - Developed 50+ successful commercial projects
-- Developed and maintained (new features + devops) projects with 2000+ active users
+- Developed and maintained (new features + devops) projects with 5000+ active users
 
 _____
 📌 Stack I'm using in my projects:
