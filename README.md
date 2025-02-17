@@ -1,5 +1,5 @@
 ### Hi there, I'm Renat 👋
-- 👨🏼‍💻 I'm 18 years old Python Backend developer from Russia (sometimes I turn into fullstack dev).
+- 👨🏼‍💻 I'm 19 years old Python Backend developer from Russia (sometimes I turn into fullstack dev).
 - 👨🏻‍🎓 I am a Comp. Sci. student.
 - 🤔 I have been into programming since.. hm... forEVER (haha, I mean, really, I've been coding since 11 y.o.)
 - 3+ years of commercial development experience
@@ -11,7 +11,7 @@ _____
 1. Aiogram/aiogram-dialogs
 2. Flask/FastAPI
 3. Django
-4. Next.js
+4. Next.js/Vue3
 5. Docker/Docker-compose
 
 
